@@ -1,0 +1,142 @@
+{
+  "gyms": [
+    {
+      "id": 12345,
+      "Gym_name": "Fitness World",
+      "people": [
+        {
+          "Person_name": "John singh",
+          "age": 30,
+          "addresses": [
+            {
+              "type": "home1",
+              "street": "123 Main St.",
+              "city": {
+                "City_name": "Anytown",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "home2",
+              "street": "456 Elm St.",
+              "city": {
+                "City_name": "Otherville",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "office",
+              "street": "789 Oak St.",
+              "city": {
+                "City_name": "Cityville",
+                "state": "CA",
+                "country": "USA"
+              }
+            }
+          ]
+        },
+        {
+          "Person_name": "Jane Smith",
+          "age": 25,
+          "addresses": [
+            {
+              "type": "home1",
+              "street": "111 Pine St.",
+              "city": {
+                "City_name": "Anytown",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "home2",
+              "street": "222 Maple St.",
+              "city": {
+                "City_name": "Otherville",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "office",
+              "street": "333 Oak St.",
+              "city": {
+                "City_name": "Cityville",
+                "state": "CA",
+                "country": "USA"
+              }
+            }
+          ]
+        },
+        {
+          "Person_name": "kiddo Smith",
+          "age": 9,
+          "addresses": [
+            {
+              "type": "home1",
+              "street": "111 Pine St.",
+              "city": {
+                "City_name": "Anytown",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "home2",
+              "street": "222 Maple St.",
+              "city": {
+                "City_name": "Otherville",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "office",
+              "street": "333 Oak St.",
+              "city": {
+                "City_name": "Cityville",
+                "state": "CA",
+                "country": "USA"
+              }
+            }
+          ]
+        },
+        {
+          "Person_name": "Kiddo singh",
+          "age": 11,
+          "addresses": [
+            {
+              "type": "home1",
+              "street": "111 Pine St.",
+              "city": {
+                "City_name": "Anytown",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "home2",
+              "street": "222 Maple St.",
+              "city": {
+                "City_name": "Otherville",
+                "state": "CA",
+                "country": "USA"
+              }
+            },
+            {
+              "type": "office",
+              "street": "333 Oak St.",
+              "city": {
+                "City_name": "Cityville",
+                "state": "CA",
+                "country": "USA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
